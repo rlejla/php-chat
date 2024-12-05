@@ -1,0 +1,14 @@
+{
+    "name": "admin/php-chat",
+    "autoload": {
+        "psr-4": {
+            "Admin\\PhpChat\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "layla"
+        }
+    ],
+    "require": {}
+}
