@@ -1,4 +1,4 @@
-# Coding Assignment - PHP Chat Application
+# PHP Chat Application
 
 This is a backend implementation for a simple chat application built in PHP using the Slim Framework. It allows users to:
 
